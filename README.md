@@ -61,5 +61,6 @@ Segmented customers into groups using quantiles for better marketing and targeti
 
 ---
 
-## 📁 Project Structure
+## 🔚 Final Note
+This project is limited to Exploratory Data Analysis and customer segmentation. Machine Learning models (like churn prediction or recommendation systems) are not implemented here but can be added in future versions.
 
